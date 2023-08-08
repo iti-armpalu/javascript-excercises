@@ -10,3 +10,4 @@ Excercises
 6. [Excercise 6 - move capital letters to the front](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/06-move-capital-letters-to-the-front)
 7. [Excercise 7 - find the missing number](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/07-find-the-missing-number)
 8. [Excercise 8 - reverse words in a string](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/08-reverse-words-in-a-string)
+9. [Exercise 9 - find the highest integer in the array using recursion](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/09-find-the-highest-integer-in-the-array-using-recursion)
