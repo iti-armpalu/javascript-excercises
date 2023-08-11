@@ -11,4 +11,5 @@ Excercises
 07. [Excercise 7 - find the missing number](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/07-find-the-missing-number)
 08. [Excercise 8 - reverse words in a string](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/08-reverse-words-in-a-string)
 09. [Exercise 9 - find the highest integer in the array using recursion](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/09-find-the-highest-integer-in-the-array-using-recursion)
-10. [Exercise 10 = the fizz buzz test](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/10-the-fizz-buzz-test)
+10. [Exercise 10 - the fizz buzz test](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/10-the-fizz-buzz-test)
+11. [Exercise 11 - tower of hanoi](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/11-tower-of-hanoi)
