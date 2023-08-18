@@ -14,3 +14,4 @@ Excercises
 10. [Exercise 10 - the fizz buzz test](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/10-the-fizz-buzz-test)
 11. [Exercise 11 - tower of hanoi](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/11-tower-of-hanoi)
 12. [Exercise 12 - seven boom](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/12-seven-boom)
+13. [Exercise 13 - hours passed](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/13-hours-passed)
