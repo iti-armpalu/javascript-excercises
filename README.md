@@ -15,4 +15,6 @@ Excercises
 11. [Exercise 11 - tower of hanoi](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/11-tower-of-hanoi)
 12. [Exercise 12 - seven boom](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/12-seven-boom)
 13. [Exercise 13 - hours passed](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/13-hours-passed)
-14. [Excercise 14 - sort array by increasing frequency](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/14-sort-array-by-increasing-frequency)
+14. [Exercise 14 - sort array by increasing frequency](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/14-sort-array-by-increasing-frequency)
+15. [Exercise 15 - pattern with recursion](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/15-pattern-with-recursion)
+
