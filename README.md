@@ -18,5 +18,6 @@ Excercises
 14. [Exercise 14 - sort array by increasing frequency](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/14-sort-array-by-increasing-frequency)
 15. [Exercise 15 - pattern with recursion](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/15-pattern-with-recursion)
 16. [Exercise 16 - find nth fibonacci number](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/16-find-nth-fibonacci-number)
-
+17. [Exercise 17 - word count](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/17-word-count)
+18. [Exercise 18 - convert a number to roman number](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/18-convert-a-number-to-roman-number)
 
