@@ -22,3 +22,5 @@ Excercises
 18. [Exercise 18 - convert a number to roman number](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/18-convert-a-number-to-roman-number)
 19. [Exercise 19 - binary search](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/19-binary-search)
 20. [Exercise 20 - luhn algorithm](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/20-luhn-algorithm)
+21. [Exercise 21 - get total price of groceries](https://github.com/iti-armpalu/javascript-excercises/tree/main/excercises/21-get-total-price-of-groceries)
+
